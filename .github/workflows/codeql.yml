@@ -1,5 +1,7 @@
 name: "CodeQL"
 
+# Just adding a comment.
+
 on:
   push:
     branches: [ "main" ]
